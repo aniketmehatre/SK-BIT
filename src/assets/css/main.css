@@ -466,10 +466,13 @@ h6 {
     inset: 0;
     background: rgba(33, 37, 41, 0.8);
     transition: 0.3s;
+    width: 324px;
   }
 
   .mobile-nav-active .navmenu>ul {
     display: block;
+    width: 290px;
+    height: 300px
   }
 }
 
